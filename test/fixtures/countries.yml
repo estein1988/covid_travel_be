@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  country_name: MyString
+  current_status: MyString
+  closed_exceptions: 
+  days_to_quarantine: 1
+  international_travel_note: 
+  country_flag: MyString
+  lat_long: 
+
+two:
+  country_name: MyString
+  current_status: MyString
+  closed_exceptions: 
+  days_to_quarantine: 1
+  international_travel_note: 
+  country_flag: MyString
+  lat_long: 
