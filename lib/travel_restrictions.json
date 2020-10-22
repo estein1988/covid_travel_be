@@ -282,7 +282,7 @@
         "days_to_quarantine": 0,
         "international_travel_notes": [],
         "international_travel_requirements": [],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/bosnia-and-herzgovina.png",
+        "country_flag": "https://cdn.webshopapp.com/shops/94414/files/52034870/flag-of-bosnia-and-herzegovina.jpg",
         "lat_long": [43.915886, 17.679076]
     },
     {
@@ -662,7 +662,7 @@
         "international_travel_requirements": [
         "Individuals and airline crew must go through medical screening upon arrival and present a completed Health Sanitary Card provided by Health Authorities"
         ],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/congo.png",
+        "country_flag": "https://cdn.britannica.com/94/7194-004-5FA84A72/Flag-Democratic-Republic-of-the-Congo.jpg",
         "lat_long": [-4.038333, 21.758664]
     },
     {
@@ -686,7 +686,7 @@
         "Airports closed"
         ],
         "international_travel_requirements": [],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/congo.png",
+        "country_flag": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg",
         "lat_long": [-0.228021, 15.827659]
     },
     {
@@ -728,7 +728,7 @@
         "Individuals traveling directly through Switzerland to another Schengen Member State from which they hold a residence permit, work permit, or a national visa",
         "Individuals with a cross-border commuter permit, with a C-visa issued by Switzerland for the purpose of \"business meetings\" as specialists in the field of health or \"official visit\" of great importance, with a D-visa issued by Switzerland or who have an assurance of a residence permit"
         ],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/Switzerland.png",
+        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/switzerland.png",
         "lat_long": [46.818188, 8.227512]
     },
     {
@@ -740,7 +740,7 @@
         "international_travel_requirements": [
         "A completed \"Health Declaration Form\" must be submitted before departure at https://deplacement-aerien.gouv.ci"
         ],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/cote-d-ivoire.png",
+        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/ivory-coast.png",
         "lat_long": [7.539989, -5.54708]
     },
     {
@@ -862,20 +862,6 @@
         "lat_long": [21.521757, -77.781167]
     },
     {
-        "country_name": "Cabo Verde",
-        "current_status": "closed",
-        "closed_exceptions": [
-        "Special, repatriation, and humanitarian flights"
-        ],
-        "days_to_quarantine": 0,
-        "international_travel_notes": [
-        "Flights suspended"
-        ],
-        "international_travel_requirements": [],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/cabo-verde.png",
-        "lat_long": [16.002082, -24.013197]
-    },
-    {
         "country_name": "Curacao",
         "current_status": "mostly closed",
         "closed_exceptions": [
@@ -940,69 +926,8 @@
         "Individuals who have been in a country other than Australia, Austria, Belgium, Bulgaria, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Israel, Italy, Jordan, South Korea, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Romania, Slovakia, Slovenia, Spain, Switzerland or United Arab Emirates in the past 14 days are not allowed to enter (this does not apply to nationals of Cyprus and their family members and residents of Cyprus)",
         "Must have a Cyprus Flight Pass obtained before departure at https://www.cyprusflightpass.gov.cy"
         ],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/Cyprus.png",
+        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/cyprus.png",
         "lat_long": [35.126413, 33.429859]
-    },
-    {
-        "country_name": "Czechia",
-        "current_status": "mostly closed",
-        "description": "These exceptions represent circumstances where international travel is permitted.",
-        "closed_exceptions": [
-        "VA, Holy See",
-        "TH, Thailand",
-        "CH, Switzerland",
-        "SE, Sweden",
-        "ES, Spain",
-        "SI, Slovenia",
-        "SK, Slovakia",
-        "SM, San Marino",
-        "RO, Romania",
-        "PT, Portugal",
-        "PL, Poland",
-        "NO, Norway",
-        "NZ, New Zealand",
-        "NL, Netherlands",
-        "MC, Monaco",
-        "MT, Malta",
-        "LU, Luxembourg",
-        "LT, Lithuania",
-        "LI, Liechtenstein",
-        "LV, Latvia",
-        "KR, Korea, South",
-        "JP, Japan",
-        "IT, Italy",
-        "IE, Ireland",
-        "IS, Iceland",
-        "HU, Hungary",
-        "GR, Greece",
-        "DE, Germany",
-        "FR, France",
-        "FI, Finland",
-        "EE, Estonia",
-        "CZ, Czechia",
-        "AD, Andorra",
-        "AU, Australia",
-        "AT, Austria",
-        "BE, Belgium",
-        "BG, Bulgaria",
-        "CA, Canada",
-        "HR, Croatia",
-        "CY, Cyprus",
-        "DK, Denmark",
-        "GB, United Kingdom",    
-        "Individuals with a long-term residence permit issued by Andorra, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, South Korea, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, United Kingdom, and Vatican City",
-        "Individuals with a residence permit issued by Czechia",
-        "Individuals with a D visa issued by Czechia",
-        "Individuals younger than 21 years who are children of British nationals or of nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City, and an EEA Member State residing in Czechia",
-        "Spouses of British nationals or of nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City, and an EEA Member State residing in Czechia",
-        "Individuals who are unmarried partners of nationals of Czechia. They must have a confirmation of their relationship issued by the Ministry of Foreign Affairs of Czechia",
-        "Individuals with a C visa issued by Czechia after May 11, 2020"
-        ],
-        "days_to_quarantine": 0,
-        "international_travel_notes": [],
-        "international_travel_requirements": [],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/Czechia.png",
-        "lat_long": [49.817492, 15.472962]
     },
     {
         "country_name": "Germany",
@@ -1306,7 +1231,7 @@
         "days_to_quarantine": 14,
         "international_travel_notes": [],
         "international_travel_requirements": [],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/federated-states-of-micronesia.png",
+        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/micronesia.png",
         "lat_long": [7.425554, 150.550812]
     },
     {
@@ -1615,7 +1540,7 @@
         "Airports in Guatemala are closed until August 15, 2020"
         ],
         "international_travel_requirements": [],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/Guatemala.png",
+        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/guatemala.png",
         "lat_long": [15.783471, -90.230759]
     },
     {
@@ -2511,7 +2436,7 @@
         "Borders closed"
         ],
         "international_travel_requirements": [],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/north-macedonia.png",
+        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/macedonia.png",
         "lat_long": [41.608635, 21.745275]
     },
     {
@@ -2528,7 +2453,7 @@
         "lat_long": [17.570692, -3.996166]
     },
     {
-        "country_name": "Burma",
+        "country_name": "Burma (Myanmar)",
         "current_status": "closed",
         "closed_exceptions": [
         "Relief flights",
@@ -2543,7 +2468,7 @@
         "international_travel_requirements": [
         "Airline crew are subject to quarantine until their next departure flight"
         ],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/burma.png",
+        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/myanmar.png",
         "lat_long": [21.913965, 95.956223]
     },
     {
@@ -3482,7 +3407,7 @@
         "days_to_quarantine": 14,
         "international_travel_notes": [],
         "international_travel_requirements": [],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/saint-helena.png",
+        "country_flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Saint_Helena.svg",
         "lat_long": [-24.143474, -10.030696]
     },
     {
@@ -3706,7 +3631,7 @@
         "international_travel_requirements": [
         "Quarantine must occur at designated location"
         ],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/eswatini.png",
+        "country_flag": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
         "lat_long": [-26.522503, 31.465866]
     },
     {
@@ -4032,7 +3957,7 @@
         "international_travel_requirements": [
         "Individuals must present a completed self-declaration form to the transporting carrier and must communicate their entry to the Department of Prevention at local health units (ASL) of the entrance district (This does not apply to individuals arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom)"
         ],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/holy-see.png",
+        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/vatican-city.png",
         "lat_long": [41.902916, 12.453389]
     },
     {
@@ -4070,7 +3995,7 @@
         "days_to_quarantine": 0,
         "international_travel_notes": [],
         "international_travel_requirements": [],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/british-virigin-islands.png",
+        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/british-virgin-islands.png",
         "lat_long": [18.420695, -64.639968]
     },
     {
@@ -4082,7 +4007,7 @@
         "international_travel_requirements": [
         "Subject to medical screening and quarantine"
         ],
-        "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/virgin-islands.png",
+        "country_flag": "https://cdn.shopify.com/s/files/1/1381/2825/products/78b3bd1cb8d7627c90701d7a6066265b_2000x.png?v=1570060884",
         "lat_long": [18.335765, -64.896335]
     },
     {
