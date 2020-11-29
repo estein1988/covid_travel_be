@@ -619,19 +619,13 @@
         "current_status": "mostly closed",
         "closed_exceptions": [
         "French citizens who reside in Saint-Pierre-et-Miquelon",
-        "Person or class of persons that the Chief Public Health Officer, appointed under subsection 6 (1) of the Public Health Agency of Canada Act, determines does not pose a risk of significant harm to public health or who will provide an essential service while in Canada",
         "Member of the Canadian Forces or a visiting force, as defined in section 2 of the Visiting Forces Act, and their immediate family members",
-        "Protected person, under section 95 (2) of the Immigration and Refugee Protection Act",
         "Individuals who arrive by means of an aircraft operated by Canadian Forces or the Department of National Defence",
         "Person who enters Canada at the invitation of the Minister of Health for the purpose of assisting in the COVID-19 response",
-        "Person whom the Minister of Foreign Affairs, the Minister of Citizenship and Immigration or the Minister of Public Safety and Emergency Preparedness determines their presence is in the national interest",
-        "Person who is exempt from the requirements to obtain a temporary resident visa under paragraph 190 (2)(a) of the Immigration and Refugee Protection Regulations, and their immediate family members",
         "Person authorized in writing by a consular officer of the government of Canada to come to Canada to reunite with immediate family members",
         "Individuals arriving from the USA who are traveling for a non-discretionary or non-optional purpose",
-        "Diplomats",
         "Seasonal agricultural workers, fish/seafood workers, caregivers and all other temporary foreign workers",
         "Permanent residents of Canada and their immediate family members",
-        "Person registered as an Indian under the Indian Act",
         "International students who held a valid study permit, or had been approved for a study permit, when the travel restrictions took effect on March 18, 2020",
         "Permanent resident applicants who had been approved for permanent residence before the travel restrictions were announced on March 18, 2020, but who had not yet traveled to Canada"
         ], 
@@ -2062,14 +2056,9 @@
         ],
         "international_travel_requirements": [
         "Nationals of China with a passport issued in the Hubei Province not permitted entry",
-        "Individuals arriving from China must have a visa issued by South Korea to transit through South Korea. This not apply to nationals of Albania, Andorra, Barbados, Dominica, Guyana, Ireland, South Korea, Malta, Mexico, Monaco, Nicaragua, Palau, San Marino, Slovenia, St. Kitts and Nevis, St. Vincent and the Grenadines, USA, Vatican City and Venezuela. It also does not apply to individuals with a British passport, or individuals with a diplomatic, consular, official, service, or special passport",
         "Subject to a PCR test for COVID-19. This does not apply to nationals of China traveling on business under the Fast Lane program and their accompanying family members. They must self-monitor their health conditions for a minimum of 14 days prior to departure and hold a medical certificate to prove COVID-19 negative testing result issued at most 72 hours before departure, and be tested on Coronavirus COVID-19 upon arrival. They must stay at designated quarantine facilities for 1 or 2 days until a negative test result is obtained",
-        "Nationals of Mongolia are not allowed to transit if they depart from Mongolia or travel onward to Mongolia. This does not apply to airline crew.",
         "Passengers and airline crew must install \"Self-diagnosis Mobile App\" in their personal device and a completed Health Declaration Form and a Special Quarantine Declaration Form must be presented to the quarantine desk upon arrival",
-        "Nationals of Russia are not allowed to transit if they depart from Russia or travel onward to Russia. This does not apply to airline crew.",
-        "Nationals of Thailand are not allowed to transit if they depart from Thailand or travel onward to Thailand. This does not apply to airline crew.",
         "Nationals and residents of South Korea are required to install \"Self-quarantine safety protection mobile app\"",
-        "Residents of South Korea must have a Re-Entry Permit and a medical certificate. The certificate must be issued by a local authorized medical institute at most 48 hours before departure, be written in English or Korean, include the date of examination, and the presence or absence of fever, cough, chills, headache, difficulty of breathing, muscle pain and pulmonary symptoms and be signed by a medical examiner. This does not apply to passengers with status Diplomats (A-1), Government Officials (A-2, A-3) or Overseas Korean (F-4).",
         "All flights must arrive at Incheon International Airport (ICN) between 5:00 and 20:00"
         ],
         "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/south-korea.png",
@@ -2391,7 +2380,7 @@
         "country_name": "Montenegro",
         "current_status": "mostly closed",
         "closed_exceptions": [
-        "Individuals residing in and arriving from Albania, Algeria, Angola, Antigua and Barbuda, Australia, Austria, Bahamas, Barbados, Belize, Benin, Bhutan, Bosnia and Herzegovina, Botswana, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cambodia, Cameroon, Chad, China, Comoros, Congo, Costa Rica, Cote dIvoire, Croatia, Cuba, Cyprus, Czechia, Denmark, Dominica, El Salvador, Eritrea, Estonia, Eswatini, Ethiopia, Fiji, Finland, Gambia, Georgia, Germany, Ghana, Greece, Guinea, Guyana, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kenya, South Korea, Kosovo, Kyrgyzstan, Laos, Latvia, Lebanon, Lesotho, Liberia, Libya, Lithuania, Luxembourg, Madagascar, Malawi, Malaysia, Mali, Malta, Mauritania, Mauritius, Mexico, Monaco, Mongolia, Morocco, Mozambique, Myanmar, Namibia, Nepal, New Zealand, Nicaragua, Niger, Nigeria, Norway, Palestinian Territory, Papua New Guinea, Paraguay, Philippines, Poland, Romania, Rwanda, Senegal, Seychelles, Sierra Leone, Slovakia, Slovenia, Somalia, South Sudan, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Switzerland, Syria, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Trinidad and Tobago, Tunisia, Turkey, Uganda, Ukraine, Uruguay, Uzbekistan, Venezuela, Vietnam, Yemen, Zambia, or Zimbabwe",
+        "Individuals residing in and arriving from European Union.",
         "Residents of Montenegro"
         ],
         "days_to_quarantine": 14,
@@ -2751,12 +2740,9 @@
         "country_name": "Netherlands",
         "current_status": "mostly closed",
         "closed_exceptions": [
-        "Individuals with a long-term residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or the United Kingdom",
+        "Individuals with a long-term residence permit issued by a Euorpean Union country.",
         "Individuals with a residence permit issued by the Netherlands",
         "British nationals returning via Netherlands to their country of residence",
-        "Nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Montenegro, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City, returning via Netherlands to their country of residence",
-        "Family members of a national of an EEA Member State or Switzerland, with a residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or the United Kingdom, to family members of a Union Citizen",
-        "Individuals with a long-term \"D\" visa issued by Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, or Switzerland",
         "Healthcare, humanitarian and international organizations personnel",
         "Military personnel."
         ],
@@ -2774,27 +2760,22 @@
         "country_name": "Norway",
         "current_status": "mostly closed",
         "closed_exceptions": [
-        "Nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland and individuals with a British passport if they reside, work or have property in Norway. If they cannot prove their residency in Norway, they must be able to prove their nationality in one of the countries listed above",
         "Residents of Norway",
         "Individuals with a visa issued by Norway after 15 March 2020",
         "Individuals with an ID card as diplomat or a Schengen residence card issued to diplomatic staff",
         "Individuals carrying work trips throughout Denmark, Finland, Norway and Sweden",
-        "Nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, Vatican City and individuals with a British passport if they are transiting via Norway to return to their country of residence",
         "Individuals with a diplomatic or service passport when they are accredited to Norway",
         "Individuals who have a particular responsibility to care for residents of Norway or who have strong welfare reasons",
         "Individuals with a D-visa in their passport",
-        "Family members of nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland and individuals with a British passport, if they are already residing in Norway or are moving to Norway",
         "Seamen in transit to or from ships",
         "Professional transporters of goods",
         "Media staff on duty",
         "Spouses/cohabitants and children of holders of Norwegian diplomatic passport",
-        "Visa-exempt nationals who have been granted a residence permit, but have not yet received the residence card (a letter from UDI with the approval of the residence permit will document that the permit has been granted). This also goes for family members of EEA citizens who have been granted a residence card, but the card has not been issued yet",
         "Individuals on cruises that started before 16 March 0800 CET transiting Norway to return home",
         "Transit workers to oil platforms and similar",
         "Individuals with a valid flight certificate on duty",
         "NATO staff with travel order",
-        "Holders of seasonal work permits in farming with an approval letter from UDI",
-        "Foreigners who are either part or witness in a court case are permitted to enter Norway for the court case. They will have a summons from the court with the date and their duty to appear."
+        "Holders of seasonal work permits in farming with an approval letter from UDI"
         ],
         "days_to_quarantine": 10,
         "international_travel_notes": [],
@@ -3052,15 +3033,11 @@
         "closed_exceptions": [
         "United Nations flights",
         "Individuals who reside in Portugal",
-        "Individuals with a residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or United Kingdom, returning via Portugal to their country of residence",
         "State flights",
         "Emergency flights",
         "Medevac flights",
         "Humanitarian/repatriation flights",
-        "Nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland, if they are arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland",
-        "Technical stopovers where passengers do not disembark",
-        "Family members of nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland, if they are arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland",
-        "Individuals with a long-term visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or United Kingdom, returning via Portugal to their country of residence"
+        "Technical stopovers where passengers do not disembark"
         ],
         "days_to_quarantine": 0,
         "international_travel_notes": [
@@ -3360,9 +3337,7 @@
         "GB, United Kingdom",
         "CH, Switzerland",
         "ES, Spain",
-        "Individuals with a residence permit issued by Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom or Vatican City, returning via Sweden to their country of residence",
         "Indivuals with a British passport and their family members, returning via Sweden to their country of residence",
-        "Nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City, and their family members, returning via Sweden to their country of residence",
         "Individuals with a national visa issued by Sweden, returning via Sweden to their country of residence",
         "Military personnel"
         ],
@@ -3480,8 +3455,7 @@
         "Flights suspended"
         ],
         "international_travel_requirements": [
-        "Individuals who have visited a country other than Austria, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hungary, Iceland, Latvia, Liechtenstein, Lithuania, Malta, Monaco, Montenegro, Norway, Poland, Slovenia and Switzerland in the past 14 days are subject to medical screening and quarantine",
-        "Individuals who have visited a country other than Austria, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hungary, Iceland, Latvia, Liechtenstein, Lithuania, Malta, Monaco, Montenegro, Norway, Poland, Slovenia and Switzerland in the past 14 days must have a medical certificate with a negative COVID-19 test result issued at most 96 hours before arrival"
+        "Individuals who have visited a country other than Austria, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hungary, Iceland, Latvia, Liechtenstein, Lithuania, Malta, Monaco, Montenegro, Norway, Poland, Slovenia and Switzerland in the past 14 days are subject to medical screening and quarantine"
         ],
         "country_flag": "https://assets.thebasetrip.com/api/v2/countries/flags/slovakia.png",
         "lat_long": [48.669026, 19.699024]
